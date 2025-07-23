@@ -26,8 +26,8 @@ In this guided project, we created a Virtual Machine in Microsoft Azure to deplo
 <h2>Materials and Methods 材料與方法</h2>
 
 - <b>[Coursera platform (Coursera 線上學習平台)](https://www.coursera.org/)</b> 
-- <b>Virtual Cloud Workspace (虛擬雲端工作區)</b>
-- <b>PC (win10,個人電腦對照差異)</b>
+- <b>[Azure Cloud account (Azure 雲端帳戶)](https://azure.microsoft.com/en-us/get-started/azure-portal)</b>
+
 
 Tasks:
 - <b>Install and set up Wireshark on Ubuntu (在 Ubuntu 上安裝並設定 Wireshark)</b>
