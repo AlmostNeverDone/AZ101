@@ -63,9 +63,9 @@ Task 5: Locate all HTTPS packets from a capture not containing a certain IP addr
 
 <h2>Results 成果展示</h2>
 
-- <b>Nextcloud successfully installed and accessible via browser(成功部署 Nextcloud 並能透過瀏覽器存取)</b>
-- <b>Successfully configured Azure VNet, subnet, NSG, and public DNS access(Azure 內網與網路安全組織配置完整)</b>
-- <b>Gained hands-on experience using Azure Bastion for secure VM access(體驗透過 Bastion 進行安全 SSH 操作)</b>
+- <b>Nextcloud successfully installed and accessible via browser. (成功部署 Nextcloud 並能透過瀏覽器存取)</b>
+- <b>Successfully configured Azure VNet, subnet, NSG, and public DNS access. (Azure 內網與網路安全組織配置完整)</b>
+- <b>Gained hands-on experience using Azure Bastion for secure VM access. (體驗透過 Bastion 進行安全 SSH 操作)</b>
 
 
 <h2>Reference 參考</h2>
