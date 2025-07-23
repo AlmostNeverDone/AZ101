@@ -4,11 +4,10 @@ Azure：建立虛擬機器並部署 Web 伺服器
 
 
 <h2>Outline 簡介</h2>
-In this guided project, we created a Virtual Machine in Microsoft Azure to deploy a web server, specifically a Nextcloud server. Rather than relying solely on presets, we explored the basic architecture of Azure by manually creating a Virtual Machine, assigning it to a subnet within a Virtual Network, and applying inbound and outbound rules through Network Security Groups (NSGs). We also used Azure Bastion to securely access the machine via SSH, avoiding public port exposure. Finally, we installed a basic Nextcloud server and made the VM accessible by configuring a public IP and DNS label.
 
+This project involved deploying an Ubuntu Server virtual machine on Microsoft Azure, configuring a virtual network, and securing it using a Network Security Group (NSG). The project also included connecting to the VM using Azure Bastion and installing the open-source cloud storage solution Nextcloud.
 
-<b>在這個引導式專題中，我們在 Microsoft Azure 上建立虛擬機器（Virtual Machine）以部署一套 Nextcloud 網頁伺服器。我們沒有直接使用預設設定，而是深入探索 Azure 的基本架構，手動建立虛擬機器、配置至虛擬網路中的子網路，並透過網路安全群組（NSG）設定進出站規則來強化安全性。我們也使用 Azure Bastion 安全地連接機器，避免公開 SSH 埠。最後，我們安裝了基本的 Nextcloud 伺服器，並透過配置公共 IP 與 DNS 標籤讓虛擬機器能對外開放存取。</b>
-<br />
+本專案在 Microsoft Azure 上建立虛擬網路與 Ubuntu Server 虛擬機，並透過 Bastion SSH 連線方式安裝並部署 Nextcloud 雲端儲存平台。同時設定 網路安全群組（NSG），以控制虛擬網路中子網的進出流量，強化整體安全性。
 
 
 <h2>Project Objectives 專題目的</h2>
@@ -59,6 +58,13 @@ Task 5: Locate all HTTPS packets from a capture not containing a certain IP addr
 <img src="https://i.imgur.com/budqLQX.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<h2>Results 成果展示</h2>
+
+- <b>Nextcloud successfully installed and accessible via browser(成功部署 Nextcloud 並能透過瀏覽器存取)</b>
+- <b>Successfully configured Azure VNet, subnet, NSG, and public DNS access(Azure 內網與網路安全組織配置完整)</b>
+- <b>Gained hands-on experience using Azure Bastion for secure VM access(體驗透過 Bastion 進行安全 SSH 操作)</b>
+
+
 <h2>Reference 參考</h2>
 
 [Azure: Create a Virtual Machine and Deploy a Web Server](https://www.coursera.org/projects/azure-create-a-virtual-machine-and-deploy-a-web-server)
@@ -72,3 +78,6 @@ Task 5: Locate all HTTPS packets from a capture not containing a certain IP addr
 @@ text in purple (and bold)@@
 ```
 --!>
+
+
+- <b>()</b>
