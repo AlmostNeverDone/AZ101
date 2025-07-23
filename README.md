@@ -29,11 +29,14 @@ This project involved deploying an Ubuntu Server virtual machine on Microsoft Az
 
 
 Tasks:
-- <b>Install and set up Wireshark on Ubuntu (在 Ubuntu 上安裝並設定 Wireshark)</b>
-- <b>Start a packet capture on an ethernet port and save it to file (在乙太網路連接埠上啟動封包擷取並將其儲存到檔案中)</b>
-- <b>Use a display filter to detect HTTPS packets (使用顯示過濾器檢測 HTTPS 封包)</b>
-- <b>Visit a web page and detect its IP address using a display filter (造訪網頁並使用顯示過濾器偵測其 IP 位址)</b>
-- <b>Locate all HTTPS packets from a capture not containing a certain IP address (尋找擷取中不包含特定 IP 位址的所有 HTTPS 封包)</b>
+- <b>Created a resource group to logically group related resources. (建立 Resource Group)</b>
+- <b>Created a Virtual Network (VNet) and associated subnet. (建立虛擬網路與子網)</b>
+- <b>Configured NSG to manage inbound and outbound traffic for the subnet. (使用 Network Security Group 保護子網</b>
+- <b>Deployed Azure Bastion to securely connect to the VM via web-based SSH. (部署 Azure Bastion 以供安全 SSH 連線)</b>
+- <b>Created an Ubuntu ver.22.04 Server virtual machine in the subnet. (建立 Ubuntu ver.22.04 Server 虛擬機)</b>
+- <b>Used Bastion to SSH into the VM and install Nextcloud via terminal.(透過 Bastion SSH 安裝 Nextcloud)</b>
+- <b>Published a public IP and configured a DNS label to access the server.(發佈 Public IP 並建立 DNS 標籤)</b>
+
 
 <h2>Practice 實踐</h2>
 
