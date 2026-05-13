@@ -41,43 +41,43 @@ Tasks:
 <h2>Practice 實踐</h2>
 
 <p align="center">
-Task 1: Install and set up Wireshark on Ubuntu (在 Ubuntu 上安裝並設定 Wireshark) <br/>
+Task 1: Create a Resource Group<br/> (建立資源群組)</b><br/>
 <img src="https://i.imgur.com/bW1BxQ8.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 2: Start a packet capture on an ethernet port and save it to file (在乙太網路連接埠上啟動封包擷取並將其儲存到檔案中)  <br/>
+Task 2: Create a Virtual Network and a subnet<br/> (建立虛擬網路和子網路)</b><br/>
 <img src="https://i.imgur.com/lotHPgT.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 3: Use a display filter to detect HTTPS packets (使用顯示過濾器檢測 HTTPS 封包) <br/>
+Task 3: Protect a subnet using a Network Security Group<br/> (使用網路安全群組保護子網路)</b><br/>
 <img src="https://i.imgur.com/JpLPJYD.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 4: Visit a web page and detect its IP address using a display filter (造訪網頁並使用顯示過濾器偵測其 IP 位址) <br/>
+Task 4: Deploy Bastion to connect to a Virtual Machine<br/> (部署 Bastion 以連接到虛擬機)</b><br/>
 <img src="https://i.imgur.com/5dVFvFY.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 5: Locate all HTTPS packets from a capture not containing a certain IP address (尋找擷取中不包含特定 IP 位址的所有 HTTPS 封包) <br/>
+Task 5: Create an Ubuntu Server Virtual Machine<br/> (建立 Ubuntu Server 虛擬機)</b><br/>
 <img src="https://i.imgur.com/5F2ARZR.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 6: Locate all HTTPS packets from a capture not containing a certain IP address (尋找擷取中不包含特定 IP 位址的所有 HTTPS 封包) <br/>
+Task 6: Install Nextcloud by connecting via SSH using Bastion<br/> (使用 Bastion 透過 SSH 連線安裝 Nextcloud)</b><br/>
 <img src="https://i.imgur.com/Uz0rpvY.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 7-1: Locate all HTTPS packets from a capture not containing a certain IP address (尋找擷取中不包含特定 IP 位址的所有 HTTPS 封包) <br/>
+Task 7-1: Publish an IP<br/> (發布 IP)</b><br/>
 <img src="https://i.imgur.com/UVriVLs.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 7-2: Locate all HTTPS packets from a capture not containing a certain IP address (尋找擷取中不包含特定 IP 位址的所有 HTTPS 封包) <br/>
+Task 7-2: Publish an IP<br/> (發布 IP)</b><br/>
 <img src="https://i.imgur.com/Id38nqq.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 8-1: Locate all HTTPS packets from a capture not containing a certain IP address (尋找擷取中不包含特定 IP 位址的所有 HTTPS 封包) <br/>
+Task 8-1: Create a DNS label<br/> (建立 DNS 標籤)</b><br/>
 <img src="https://i.imgur.com/CFgCErV.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 8-2: Locate all HTTPS packets from a capture not containing a certain IP address (尋找擷取中不包含特定 IP 位址的所有 HTTPS 封包) <br/>
+Task 8-2: Create a DNS label<br/> (建立 DNS 標籤)</b><br/>
 <img src="https://i.imgur.com/1KoRhvW.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <h2>Results 成果展示</h2>
